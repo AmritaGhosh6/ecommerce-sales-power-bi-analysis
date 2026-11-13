@@ -11,7 +11,7 @@ The dashboard brings together key performance numbers and interactive visuals to
 - **Power BI Desktop** – Dashboard creation and data visualization
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Measures and calculations
-- **Excel / CSV** – Source data
+- **CSV files** – Source data
 
 ## Dashboard Preview
 
@@ -60,7 +60,7 @@ The analysis uses three datasets:
 
 **Source:** [E-Commerce Data – Kaggle](https://www.kaggle.com/datasets/benroshan/ecommerce-data)
 
-**Dataset Licence:** CC0 – Public Domain
+**Dataset License:** CC0 – Public Domain
 
 ## Project Demonstration
 
@@ -72,9 +72,9 @@ The analysis uses three datasets:
 - `source files/` – Original CSV datasets
 - `screenshots/` – Dashboard screenshots
 
-## Licence
+## License
 
-This project is licensed under the MIT Licence. Refer to the LICENSE file for details.
+This project is licensed under the MIT License. Refer to the LICENSE file for details.
 
 ---
 
